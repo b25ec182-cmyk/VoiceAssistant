@@ -1,0 +1,4 @@
+SpeechRecognition==3.14.3
+PyAudio==0.2.14
+pyttsx3==2.99
+PyAutoGUI==0.9.54
